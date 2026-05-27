@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056020359094",
+    "project_id": "veresiye-defteri-esnaf",
+    "storage_bucket": "veresiye-defteri-esnaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056020359094:android:2a88fcd994174968188317",
+        "android_client_info": {
+          "package_name": "com.melihbalta.veresiyedefteri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmL2WrOsygnd_NQc2zq8WMGaSdWsD42g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
