@@ -1,16 +1,27 @@
-# veresiyedefteri
+# Veresiye Defteri
 
-A new Flutter project.
+Modern Flutter tabanlı veresiye takip uygulaması.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Müşteri yönetimi
+- Borç / ödeme takibi
+- Dashboard
+- Finans raporları
+- CSV export / import
+- Local storage (Hive)
+- Onboarding sistemi
+- Splash screen
+- AdMob reklam entegrasyonu
+- Modern Material 3 UI
 
-A few resources to get you started if this is your first Flutter project:
+## Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Hive
+- Google Mobile Ads
+- Flutter Local Notifications
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Durum
+
+Production-ready foundation.
